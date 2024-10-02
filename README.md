@@ -1,14 +1,21 @@
 
-🔭 I’m currently working on: Developing a new web application for data analysis.
+🌍 What I'm working on:
+I'm currently developing a web application designed to revolutionize data analysis, providing users with intuitive and powerful tools for data insights.
 
-🌱 I’m currently learning: Machine Learning algorithms and Python frameworks for data science.
+🚀 What I'm learning:
+I’m diving deep into Machine Learning algorithms and enhancing my skills in Python frameworks, particularly those relevant to web development and data science.
 
-👯 I’m looking to collaborate on: Open-source projects related to artificial intelligence and data science.
+🤝 Collaboration opportunities:
+I’m eager to collaborate on open-source projects in web development, artificial intelligence, and data science. Let’s build something impactful together!
 
-🤔 I’m looking for help with: Optimizing algorithms for large datasets.
+💡 What I need help with:
+Looking for insights on optimizing algorithms for large-scale datasets, particularly in web applications. If you have any tips or advice, I’d love to connect!
 
-💬 Ask me about: Anything related to programming, data science, or technology in general.
+💬 Ask me about:
+Feel free to reach out if you have questions about web development, programming, data science, or technology in general. I’m always happy to share knowledge and help!
 
-📫 How to reach me: You can email me at manobhisriram@gmail.com.
+📫 Get in touch:
+You can reach me at manobhisriram@gmail.com for collaborations, inquiries, or just to connect!
 
-😄 Pronouns: He/Him
+😄 Pronouns:
+He/Him
